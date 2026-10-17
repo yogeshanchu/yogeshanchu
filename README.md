@@ -12,13 +12,16 @@
 
 ## About Me
 
-I’m **Yogesh Ancharwadkar**, a **Java Developer** focused on building scalable, maintainable backend systems and cloud-ready applications.
+I’m **Yogesh Ancharwadkar**, a **Java Developer** focused on building scalable, maintainable backend systems and production-ready applications.
 
 - 🔭 Working on Java backend services and modern application architecture
 - 🌱 Learning more about cloud-native development, distributed systems, and AWS
 - 🤝 Open to collaborating on backend, platform engineering, and DevOps projects
 - 💬 Ask me about **Java, Spring Boot, Kubernetes, Docker, and AWS**
 - ⚡ Passionate about turning complex problems into simple, reliable solutions
+
+## Currently Exploring
+- Low Latency Java Apps
 
 ## Tech Stack
 
