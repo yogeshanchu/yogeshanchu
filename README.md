@@ -4,10 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yogeshanchu&label=Profile%20views&color=38bdf8&style=flat-square)](https://github.com/yogeshanchu)
 [![GitHub followers](https://img.shields.io/github/followers/yogeshanchu?label=Followers&style=flat-square&logo=github&logoColor=white&color=111827)](https://github.com/yogeshanchu)
-[![GitHub Stars](https://img.shields.io/github/stars/yogeshanchu?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&logoColor=white&color=111827)](https://github.com/yogeshanchu)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -42,17 +39,29 @@ I’m **Yogesh Ancharwadkar**, a **Java Developer** focused on building scalable
 
 </div>
 
+## Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yogeshanchu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 ## Featured Projects
 
-- Add your featured projects here
+<p align="left">
+  <a href="https://github.com/yogeshanchu/matching-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshanchu&repo=matching-engine&theme=tokyonight&hide_border=true" alt="matching-engine" />
+  </a>
+</p>
 
 ## Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/yogeshjavadev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:yogeshanchu@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
