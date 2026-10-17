@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Yogesh%20Ancharwadkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud-Native%20Enthusiast&descAlignY=55&descSize=18" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Yogesh%20Ancharwadkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer" alt="banner" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yogeshanchu&label=Profile%20views&color=38bdf8&style=flat-square)](https://github.com/yogeshanchu)
 [![GitHub followers](https://img.shields.io/github/followers/yogeshanchu?label=Followers&style=flat-square&logo=github&logoColor=white&color=111827)](https://github.com/yogeshanchu)
