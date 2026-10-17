@@ -33,31 +33,6 @@ I’m **Yogesh Ancharwadkar**, a **Java Developer** focused on building scalable
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeshanchu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshanchu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yogeshanchu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-## Featured Projects
-
-<p align="left">
-  <a href="https://github.com/yogeshanchu/matching-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeshanchu&repo=matching-engine&theme=tokyonight&hide_border=true" alt="matching-engine" />
-  </a>
-</p>
-
 ## Connect with Me
 
 <p align="left">
